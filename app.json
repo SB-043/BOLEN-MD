@@ -1,9 +1,9 @@
 {
-  "name": "June-md",
-  "description": "June-md, your friendly assistant!",
-  "logo": "https://h.uguu.se/GiYWpWoC.jpg",
+  "name": "Bolen-md",
+  "description": "Bolen-md, your friendly assistant!",
+  "logo": "https://files.catbox.moe/pcnyds.png",
   "keywords": [],
-  "repository": "https://github.com/Vinpink2/june-md",
+  "repository": "https://github.com/SB-043/BOLEN-MD",
   "stack": "container",
   "addons": [
     {
